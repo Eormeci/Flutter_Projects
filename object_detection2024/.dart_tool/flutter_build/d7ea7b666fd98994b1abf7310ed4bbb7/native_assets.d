@@ -1,0 +1,1 @@
+ C:\\Users\\ormec\\AndroidStudioProjects\\2024FlutterObjectDetectionImagesStarter-main\\.dart_tool\\flutter_build\\d7ea7b666fd98994b1abf7310ed4bbb7\\native_assets.yaml: 

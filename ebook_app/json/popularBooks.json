@@ -1,0 +1,38 @@
+[
+    {
+      "rating": 4.5,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "text": "A comic science fiction series written by Douglas Adams.",
+      "img": "assets/img/1.png",
+      "audio": "1.mp3"
+    },
+    {
+      "rating": 5.0,
+      "title": "To Kill a Mockingbird",
+      "text": "A classic novel by Harper Lee set in the American South during the 1930s.",
+      "img": "assets/img/2.png",
+      "audio": "2.mp3"
+    },
+    {
+      "rating": 4.2,
+      "title": "1984",
+      "text": "A dystopian novel by George Orwell depicting a totalitarian society.",
+      "img": "assets/img/3.png",
+      "audio": "3.mp3"
+    },
+    {
+      "rating": 4.8,
+      "title": "The Great Gatsby",
+      "text": "A classic novel by F. Scott Fitzgerald set in the Roaring Twenties.",
+      "img": "assets/img/4.png",
+      "audio": "4.mp3"
+    },
+    {
+      "rating": 4.0,
+      "title": "The Lord of the Rings",
+      "text": "An epic fantasy novel by J.R.R. Tolkien.",
+      "img": "assets/img/5.png",
+      "audio": "5.mp3"
+    }
+]
+

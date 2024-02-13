@@ -1,0 +1,40 @@
+name: local_events
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - images/cooking.png
+    - images/p1.jpg
+    - images/p2.jpg
+    - images/p3.jpg
+    - images/p4.jpg
+    - images/pas1.png
+    - images/pas2.png
+    - images/pas3.png
+    - images/photo2.png
+    - images/indir.png
+
+
+
+
